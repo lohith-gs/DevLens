@@ -4,7 +4,7 @@
 
 DevLens is a Chrome DevTools extension that replaces squinting at the Network tab with a purpose-built panel for inspecting, comparing, and understanding API traffic.
 
-![DevLens Screenshot](https://raw.githubusercontent.com/lohith-gs/DevLens/main/docs/screenshot-inspector.jpg)
+<img width="958" height="722" alt="Screenshot 2026-05-25 at 9 37 44 PM" src="https://github.com/user-attachments/assets/f9debb64-5027-4b6e-9b9e-01536328a021" />
 
 ---
 
