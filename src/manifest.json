@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "DevLens",
+  "version": "1.0.0",
+  "description": "See deeper into your network. Diff, correlate, schema-extract and visualize network requests.",
+  "devtools_page": "devtools.html",
+  "permissions": ["storage"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "icons/devlens-logo.png",
+    "48": "icons/devlens-logo.png",
+    "128": "icons/devlens-logo.png"
+  },
+  "action": {
+    "default_title": "DevLens"
+  }
+}

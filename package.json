@@ -1,0 +1,39 @@
+{
+  "name": "dev-lens",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config webpack.config.js",
+    "watch": "webpack --config webpack.config.js --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.0",
+    "@types/chrome": "^0.1.42",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "autoprefixer": "^10.5.0",
+    "copy-webpack-plugin": "^14.0.0",
+    "css-loader": "^7.1.4",
+    "html-webpack-plugin": "^5.6.7",
+    "jimp": "^1.6.1",
+    "mini-css-extract-plugin": "^2.10.2",
+    "postcss": "^8.5.14",
+    "postcss-loader": "^8.2.1",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "serve": "^14.2.6",
+    "style-loader": "^4.0.0",
+    "tailwindcss": "^4.3.0",
+    "ts-loader": "^9.5.7",
+    "typescript": "^6.0.3",
+    "webpack": "^5.106.2",
+    "webpack-cli": "^7.0.2"
+  },
+  "dependencies": {
+    "lucide-react": "^1.16.0"
+  }
+}
