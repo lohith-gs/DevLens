@@ -36,7 +36,7 @@ Surfaces tokens, IDs, emails, and auth-related values found across all traffic s
 ## Getting Started
 
 ### Install from the Chrome Web Store
-Search for **DevLens** in the [Chrome Web Store](https://chrome.google.com/webstore) and click Add to Chrome.
+Install directly from the [Chrome Web Store](https://chromewebstore.google.com/detail/allolniimedofhingkeodfglnogcmelj) and click Add to Chrome.
 
 ### How to use it
 1. Open Chrome DevTools on any page — press `F12` on Windows/Linux or `Cmd+Option+I` on Mac
@@ -56,8 +56,8 @@ Search for **DevLens** in the [Chrome Web Store](https://chrome.google.com/webst
 ### Setup
 
 ```bash
-git clone https://github.com/srilohithgelli/dev-lens.git
-cd dev-lens
+git clone https://github.com/lohith-gs/DevLens.git
+cd DevLens
 npm install
 ```
 
